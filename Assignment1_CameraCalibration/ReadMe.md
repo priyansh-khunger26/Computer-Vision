@@ -1,6 +1,4 @@
-# Assignments 1 & 2 – Computer Vision Course (CS7.505, IIIT Hyderabad)
-
-This file contains the complete `README.md` content for both Assignment 1 and Assignment 2, ready to upload as a single markdown file.
+# Assignments 1 – Computer Vision Course (CS7.505, IIIT Hyderabad)
 
 ---
 
